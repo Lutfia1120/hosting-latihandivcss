@@ -1,0 +1,39 @@
+.header{
+    background-color: dodgerblue;
+    height: 50px;
+    width: auto;
+    text-align: center;
+    color: white;
+    line-height: 7px;
+    padding: 5px;
+}
+.menu{
+    float: left;
+    background-color: rgb(184, 221, 253);
+    width:200px;
+    height:700px;
+  
+}
+.menu{
+    font-size: medium; font-weight: bold;
+    
+}
+.text{
+    float: left; background-color: aliceblue; font-size: medium;font-weight: bold;
+}
+.content{
+    float: left;
+    background-color: aliceblue;
+    width: auto; height:auto
+}
+.footer{
+    background-color: dodgerblue;
+    clear: both;
+    text-align: center;
+    color: white;
+    height: 30px;
+    width: auto;
+    padding: 4px;
+    line-height: 30px;
+    clear: both;
+}

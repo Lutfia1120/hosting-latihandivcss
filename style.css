@@ -1,0 +1,21 @@
+.atas{
+    background-color: rgb(49, 49, 240);
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.genap{
+    background-color: rgb(178, 215, 248);
+    font-family: sans-serif;
+}
+.genap:hover{
+     background-color:lightgrey;
+}
+
+.bawah{
+    font-family: sans-serif;
+}
+.bawah:hover{
+    background-color:lightgray;
+}
